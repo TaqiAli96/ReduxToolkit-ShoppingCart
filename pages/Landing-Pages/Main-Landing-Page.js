@@ -8,6 +8,7 @@ export default function MainLandingPage() {
     <>
       <Head>
         <title>TRVS</title>
+    Tenant Registration & Verification System
       </Head>
       <div className="header">
         <NavBar />
